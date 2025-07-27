@@ -2,6 +2,7 @@ ext {
     extName = 'cn.pornhub'
     extClass = '.cn.pornhub'
     extVersionCode = 1
+    isNSFW = true
 }
 
 apply from: "$rootDir/common.gradle"
