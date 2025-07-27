@@ -1,5 +1,5 @@
 
-package eu.kanade.tachiyomi.animeextension.zh.hanime1
+package eu.kanade.tachiyomi.animeextension.zh.cn.pornhub
 
 import eu.kanade.tachiyomi.animesource.model.AnimeFilter
 
